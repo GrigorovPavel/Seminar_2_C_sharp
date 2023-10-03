@@ -1,0 +1,15 @@
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_2 C#\Task09\bin\Debug\net6.0\Task09.exe
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_2 C#\Task09\bin\Debug\net6.0\Task09.deps.json
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_2 C#\Task09\bin\Debug\net6.0\Task09.runtimeconfig.json
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_2 C#\Task09\bin\Debug\net6.0\Task09.dll
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_2 C#\Task09\bin\Debug\net6.0\Task09.pdb
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_2 C#\Task09\obj\Debug\net6.0\Task09.csproj.AssemblyReference.cache
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_2 C#\Task09\obj\Debug\net6.0\Task09.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_2 C#\Task09\obj\Debug\net6.0\Task09.AssemblyInfoInputs.cache
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_2 C#\Task09\obj\Debug\net6.0\Task09.AssemblyInfo.cs
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_2 C#\Task09\obj\Debug\net6.0\Task09.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_2 C#\Task09\obj\Debug\net6.0\Task09.dll
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_2 C#\Task09\obj\Debug\net6.0\refint\Task09.dll
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_2 C#\Task09\obj\Debug\net6.0\Task09.pdb
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_2 C#\Task09\obj\Debug\net6.0\Task09.genruntimeconfig.cache
+D:\GeekBrains\Семинары\3 Знакомство с языком С#\Seminar_2 C#\Task09\obj\Debug\net6.0\ref\Task09.dll
