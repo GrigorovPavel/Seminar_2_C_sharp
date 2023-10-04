@@ -29,4 +29,15 @@ else
     Console.WriteLine($"{userNum} - не трёхзначное число!");
 }
 
+// Вариант с помощю МЕТОДА
+
+int DelSecondDigit(int userNum)
+{
+    int userNum1 = (userNum /100) * 10;
+    int userNum2 = userNum %10;
+    return (userNum1+userNum2);
+}
+
+int result = DelSecondDigit(num);
+Console.WriteLine($"Вариант с помощью МЕТОДА {result}");
 
