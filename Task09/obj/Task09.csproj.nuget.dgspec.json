@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GeekBrains\\Семинары\\3 Знакомство с языком С#\\Seminar_2 C#\\Task09\\Task09.csproj": {}
+    "d:\\GeekBrains\\Семинары\\3 Знакомство с языком С#\\Seminar_2 C#\\Task09\\Task09.csproj": {}
   },
   "projects": {
-    "D:\\GeekBrains\\Семинары\\3 Знакомство с языком С#\\Seminar_2 C#\\Task09\\Task09.csproj": {
+    "d:\\GeekBrains\\Семинары\\3 Знакомство с языком С#\\Seminar_2 C#\\Task09\\Task09.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GeekBrains\\Семинары\\3 Знакомство с языком С#\\Seminar_2 C#\\Task09\\Task09.csproj",
+        "projectUniqueName": "d:\\GeekBrains\\Семинары\\3 Знакомство с языком С#\\Seminar_2 C#\\Task09\\Task09.csproj",
         "projectName": "Task09",
-        "projectPath": "D:\\GeekBrains\\Семинары\\3 Знакомство с языком С#\\Seminar_2 C#\\Task09\\Task09.csproj",
+        "projectPath": "d:\\GeekBrains\\Семинары\\3 Знакомство с языком С#\\Seminar_2 C#\\Task09\\Task09.csproj",
         "packagesPath": "C:\\Users\\Павел\\.nuget\\packages\\",
-        "outputPath": "D:\\GeekBrains\\Семинары\\3 Знакомство с языком С#\\Seminar_2 C#\\Task09\\obj\\",
+        "outputPath": "d:\\GeekBrains\\Семинары\\3 Знакомство с языком С#\\Seminar_2 C#\\Task09\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Павел\\AppData\\Roaming\\NuGet\\NuGet.Config"
